@@ -1,8 +1,8 @@
 class HerokuCompletion < Formula
   desc "Shell completion for Heroku CLI"
   homepage "https://github.com/JoeNyland/heroku-completion"
-  url "https://github.com/JoeNyland/heroku-completion/archive/1.0.0.tar.gz"
-  sha256 "e0f6f16aabc6516958d7b91bd2a594beb5a86fe86d07c72b9490583f9d7fd124"
+  url "https://github.com/JoeNyland/heroku-completion/archive/1.0.1.tar.gz"
+  sha256 "044d662d2d29cc8e71a86e3a01f9ae54fb78a9ae98a0dba3c6fadcef8806d6a8"
   head "https://github.com/JoeNyland/heroku-completion.git"
 
   depends_on "heroku" => :run
